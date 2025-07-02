@@ -4,6 +4,78 @@ As a Team, our task is to develop a personal task management app for Android.
 
 ---
 
+## 📸 Screen Shots
+<table>
+  <tr>
+    <td align="center">
+      <strong>Splash Screen Dark</strong><br/>
+      <img src="https://github.com/user-attachments/assets/46943ce5-cc19-45fd-b1ea-a9d5744f7ece" width="200"/>
+    </td>
+    <td align="center">
+      <strong>Onboarding Screen Dark</strong><br/>
+      <img src="https://github.com/user-attachments/assets/30f3a9b7-57fa-41f0-8bd8-4be9acec797d" width="200"/>
+    </td>
+    <td align="center">
+      <strong>Onboarding Screen Dark</strong><br/>
+      <img src="https://github.com/user-attachments/assets/fa3a924b-33cd-45f4-9ca7-1ff0b09e5ae7" width="200"/>
+    </td>
+    <td align="center">
+      <strong>Home Screen Dark</strong><br/>
+      <img src="https://github.com/user-attachments/assets/58eeced0-4982-4a98-b216-d1b679af5cb8" width="200"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Home Screen Dark</strong><br/>
+      <img src="https://github.com/user-attachments/assets/d78669b0-3882-4d45-8ee5-8100ff0be627" width="200"/>
+    </td>
+    <td align="center">
+      <strong>Task Details Dark</strong><br/>
+      <img src="https://github.com/user-attachments/assets/b0f4401c-bc30-4884-a6c7-bdd053eb6713" width="200"/>
+    </td>
+    <td align="center">
+      <strong>Tasks Screen Dark</strong><br/>
+      <img src="https://github.com/user-attachments/assets/7fb7969f-0d84-4206-8996-8c151336a1c7" width="200"/>
+    </td>
+    <td align="center">
+      <strong>Categories Screen Dark</strong><br/>
+      <img src="https://github.com/user-attachments/assets/74edc22c-5b7c-4374-83cf-044691047013" width="200"/>
+    </td>
+  </tr>
+
+<tr>
+  <td align="center">
+      <strong>Home Screen Light</strong><br/>
+      <img src="https://github.com/user-attachments/assets/abb9a0c9-327c-479a-ac11-ab532898573c" width="200"/>
+    </td>
+  <td align="center">
+      <strong>Task Details Light</strong><br/>
+      <img src="https://github.com/user-attachments/assets/ee9500ab-0a94-48d8-9849-53ee0866a7dd" width="200"/>
+    </td>
+    <td align="center">
+      <strong>Delete Task Light</strong><br/>
+      <img src="https://github.com/user-attachments/assets/bec8cda0-8b4e-4533-9b40-afb689bcfa99" width="200"/>
+    </td>
+    <td align="center">
+      <strong>Add Task Light</strong><br/>
+      <img src="https://github.com/user-attachments/assets/82c56457-a8b5-4bef-aef5-c3996cc29aff" width="200"/>
+    </td>
+  </tr> 
+</table>
+
+---
+
+## 📸 Theme Toggling Quick Demo
+
+<p align="left">
+  
+https://github.com/user-attachments/assets/7a1de2cf-72bc-42a8-a621-11d3e5a0ed73
+
+</p>
+
+---
+
 ## 🧠 Key Concepts
 
 This app is a practical demonstration of:
