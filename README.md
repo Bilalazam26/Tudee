@@ -3,6 +3,13 @@
 As a Team, our task is to develop a personal task management app for Android.
 
 ---
+## 📦 Download Tudee APK
+
+You can download and install the latest version of Dawinii here:
+
+[⬇️ Download Dawinii APK (v1.0.0)](https://github.com/Bilalazam26/Tudee/releases/download/v1.0.0/Cute_Tudee.apk)
+
+---
 
 ## 📸 Screen Shots
 <table>
